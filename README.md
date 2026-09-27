@@ -1,10 +1,11 @@
 # Langchain Agents Project 🚀
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Language: Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+![Language: Langchain](https://img.shields.io/badge/language-Langchain-blue?logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-white?logo=openai)
+![Groq](https://img.shields.io/badge/Groq-orange?logo=groq)
+![Google gemini](https://img.shields.io/badge/Google-Gemini-blue?logo=Googlegemini)
+
 
 Welcome to the **Langchain Agents Project**! This repository explores the capabilities of large language models (LLMs) and agentic workflows using the LangChain ecosystem. It integrates multiple state-of-the-art providers, including OpenAI, Google GenAI, and Groq, to build powerful AI-driven applications.
 
